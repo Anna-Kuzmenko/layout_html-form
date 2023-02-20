@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,OACE,aAAc,CACd,kBACF,CAEA,kBACE,eACF,CAEA,OACE,kBACF","file":"style.07dae253.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\n.label {\n  display: block;\n  margin-bottom: 10px;\n}\n\n.label:last-child {\n  margin-bottom: 0;\n}\n\n.group {\n  margin-bottom: 20px;\n}\n"]}
